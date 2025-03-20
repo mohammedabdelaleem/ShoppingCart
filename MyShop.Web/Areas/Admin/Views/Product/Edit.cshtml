@@ -1,0 +1,41 @@
+﻿@model ProductCategoriesVM
+
+@{
+    ViewBag.MainTitle = "Product Management";
+    ViewBag.SubTitle = "Edit Product";
+    Layout = "_DashboardLTE";
+}
+
+<form asp-action="Edit" asp-controller="Product" method="POST" enctype="multipart/form-data">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <input hidden asp-for="Product.Id" />
+
+
+    <label asp-for="Product.Name" class="control-label"></label>
+    <input asp-for="Product.Name" class="form form-control"></input>
+    <span asp-validation-for="Product.Name" class="text-danger"></span>
+
+    <label asp-for="Product.Description" class="control-label"></label>
+    <input asp-for="Product.Description" class="form form-control"></input>
+    <span asp-validation-for="Product.Description" class="text-danger"></span>
+
+    <label asp-for="Product.Price" class="control-label"></label>
+    <input asp-for="Product.Price" class="form form-control"></input>
+    <span asp-validation-for="Product.Price" class="text-danger"></span>
+
+    <label asp-for="Product.Img" class="control-label"></label>
+    <input type="file" name="file" class="form form-control" ></input>
+
+
+    <label asp-for="Product.CategoryId" class="control-label"></label>
+    <select asp-for="Product.CategoryId"  asp-items="Model.CategoryList">
+        <option disabled selected  > -- Select Category --</option>
+    </select>
+
+    <input type="submit" value="Save" class="btn btn-primary mt-3 mb-3"  />
+</form>
+
+    <div >
+        <a asp-action="Index" class="btn btn-primary"> Back To List</a>
+    </div>

@@ -1,0 +1,12 @@
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\bin\Debug\net8.0\MyShop.Entities.deps.json
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\bin\Debug\net8.0\MyShop.Entities.dll
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\bin\Debug\net8.0\MyShop.Entities.pdb
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.AssemblyInfoInputs.cache
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.AssemblyInfo.cs
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.csproj.CoreCompileInputs.cache
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.dll
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0\refint\MyShop.Entities.dll
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.pdb
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0\ref\MyShop.Entities.dll
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.csproj.AssemblyReference.cache

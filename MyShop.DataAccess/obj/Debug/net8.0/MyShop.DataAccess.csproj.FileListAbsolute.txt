@@ -1,0 +1,17 @@
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.deps.json
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.runtimeconfig.json
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.dll
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.pdb
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\bin\Debug\net8.0\MyShop.Entities.dll
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\bin\Debug\net8.0\MyShop.Entities.pdb
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.csproj.AssemblyReference.cache
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.AssemblyInfoInputs.cache
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.AssemblyInfo.cs
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.csproj.CoreCompileInputs.cache
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\obj\Debug\net8.0\MyShop.D.2D72841A.Up2Date
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.dll
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\obj\Debug\net8.0\refint\MyShop.DataAccess.dll
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.pdb
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.genruntimeconfig.cache
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.DataAccess\obj\Debug\net8.0\ref\MyShop.DataAccess.dll

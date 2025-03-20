@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1>Error</h1>
+
+<hr />
+
+<h1>@ViewBag.ErrorMessage</h1>
+
+
+<div>
+    <a asp-action="Index" asp-controller="Home">Back to Home</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

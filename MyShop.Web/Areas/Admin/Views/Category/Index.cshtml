@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.MainTitle = "Category Management";
+    ViewBag.SubTitle = "Show All Categories";
+    Layout = "_DashboardLTE";
+    
+}
+
+ <a asp-action="Add" class="btn btn-primary mt-4 mb-4">Add</a> 
+
+<table id="my-tbl" class="table table-bordered table-hover">
+
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th style="width:300px;text-style:balance">Description</th>
+            <th>Created Time</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+</table>
+
+
+@section Scripts {
+
+                <script src="~/js/IndexDT/categoryDT.js"> </script>
+}
+
+

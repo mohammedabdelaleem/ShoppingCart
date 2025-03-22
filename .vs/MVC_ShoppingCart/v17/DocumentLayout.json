@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0225902-0EAC-49FF-B520-515999C478F1}|MyShop.Web\\MyShop.Web.csproj|d:\\university\\coding\\basic\\mvc\\mvc_shoppingcart\\myshop.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0225902-0EAC-49FF-B520-515999C478F1}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0225902-0EAC-49FF-B520-515999C478F1}|MyShop.Web\\MyShop.Web.csproj|d:\\university\\coding\\basic\\mvc\\mvc_shoppingcart\\myshop.web\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0225902-0EAC-49FF-B520-515999C478F1}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0225902-0EAC-49FF-B520-515999C478F1}|MyShop.Web\\MyShop.Web.csproj|d:\\university\\coding\\basic\\mvc\\mvc_shoppingcart\\myshop.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0225902-0EAC-49FF-B520-515999C478F1}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C124A1E9-9928-40D4-B713-8AB2B2B98769}|MyShop.Entities\\MyShop.Entities.csproj|d:\\university\\coding\\basic\\mvc\\mvc_shoppingcart\\myshop.entities\\viewmodels\\productcountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C124A1E9-9928-40D4-B713-8AB2B2B98769}|MyShop.Entities\\MyShop.Entities.csproj|solutionrelative:myshop.entities\\viewmodels\\productcountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T14:45:26.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCountVM.cs",
+              "DocumentMoniker": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Entities\\ViewModels\\ProductCountVM.cs",
+              "RelativeDocumentMoniker": "MyShop.Entities\\ViewModels\\ProductCountVM.cs",
+              "ToolTip": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Entities\\ViewModels\\ProductCountVM.cs",
+              "RelativeToolTip": "MyShop.Entities\\ViewModels\\ProductCountVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:42:24.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T14:19:55.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:17:13.201Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"

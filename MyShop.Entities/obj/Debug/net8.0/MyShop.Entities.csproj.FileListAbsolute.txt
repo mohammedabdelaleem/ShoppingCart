@@ -10,3 +10,4 @@ D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0
 D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.pdb
 D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0\ref\MyShop.Entities.dll
 D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.csproj.AssemblyReference.cache
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.sourcelink.json

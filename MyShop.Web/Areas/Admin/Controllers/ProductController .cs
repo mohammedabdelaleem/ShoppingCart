@@ -174,15 +174,15 @@ namespace MyShop.Web.Areas.Admin.Controllers
 
 
         // i will click on the button and confirm delete no need for details show here 
-        
+
         // Add Explicit Routing
-        //[HttpDelete]
-        //[Route("Admin/Product/Delete/{id}")]
-
-      //  [HttpDelete("DeleteProduct/{id}")]
-
         [HttpDelete]
-        public IActionResult Delete(int? id)
+        [Route("Admin/Product/Delete/{id}")]
+
+        //[HttpDelete("Delete/{id}")]
+
+        //[HttpDelete]
+        public IActionResult Delete(int id)
          {
 
             var product = unitIfWork.Product.GetFirstOrDefault(c => c.Id == id);

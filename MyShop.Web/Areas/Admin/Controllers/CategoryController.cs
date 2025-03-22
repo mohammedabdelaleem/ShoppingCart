@@ -6,6 +6,7 @@ using System.Text.Json;
 
 namespace MyShop.Web.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class CategoryController : Controller
     {
         private readonly IUnitIfWork unitIfWork;

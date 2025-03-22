@@ -22,7 +22,7 @@ function LoadData() {
                 "render": function (data) {
                     return `
                         <a href="/Admin/Product/Edit/${data}" class="btn btn-warning btn-sm">Edit</a>
-                        <a onClick=DeleteItem("/Admin/Product/DeleteProduct/${data}") class="btn btn-danger btn-sm">Delete</a>
+                        <a onClick=DeleteItem("/Admin/Product/Delete/${data}") class="btn btn-danger btn-sm">Delete</a>
                     `;
                 },
                 "orderable": false

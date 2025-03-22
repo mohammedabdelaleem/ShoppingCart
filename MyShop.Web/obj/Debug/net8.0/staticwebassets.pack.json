@@ -5,40 +5,28 @@
       "PackagePath": "staticwebassets\\MyShop.Web.bundle.scp.css"
     },
     {
-      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\2793eddc-56ba-47b7-93c1-4c89895b0162.jpg",
-      "PackagePath": "staticwebassets\\Images\\Products\\2793eddc-56ba-47b7-93c1-4c89895b0162.jpg"
+      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\2f3e9829-74c6-49c4-ad6e-f4e24d964fb1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\2f3e9829-74c6-49c4-ad6e-f4e24d964fb1.jpg"
     },
     {
-      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\2af22bef-bb6a-461a-a75e-a8c36e28474b.webp",
-      "PackagePath": "staticwebassets\\Images\\Products\\2af22bef-bb6a-461a-a75e-a8c36e28474b.webp"
+      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\766049f1-4c0c-4e6a-994b-6ebc653f52ed.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\766049f1-4c0c-4e6a-994b-6ebc653f52ed.webp"
     },
     {
-      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\2c32d4b6-6d84-4260-bbc6-59bc31545bbd.webp",
-      "PackagePath": "staticwebassets\\Images\\Products\\2c32d4b6-6d84-4260-bbc6-59bc31545bbd.webp"
+      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\9d69156f-b66d-4c6d-9d06-bb57256c4a7b.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\9d69156f-b66d-4c6d-9d06-bb57256c4a7b.webp"
     },
     {
-      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\4f3fe72e-fd8a-4614-a82b-224778d891c3.jpg",
-      "PackagePath": "staticwebassets\\Images\\Products\\4f3fe72e-fd8a-4614-a82b-224778d891c3.jpg"
+      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\b13e31d5-6686-419d-83b8-aa0212b0473f.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\b13e31d5-6686-419d-83b8-aa0212b0473f.webp"
     },
     {
-      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\6e652608-3908-4853-8a20-c2b55913e03f.webp",
-      "PackagePath": "staticwebassets\\Images\\Products\\6e652608-3908-4853-8a20-c2b55913e03f.webp"
+      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\c2b2f1bc-bf66-4f97-af28-0c1ef58f6a88.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\c2b2f1bc-bf66-4f97-af28-0c1ef58f6a88.jpg"
     },
     {
-      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\79101f59-d9b3-42c2-b3e2-662a0c2779ed.webp",
-      "PackagePath": "staticwebassets\\Images\\Products\\79101f59-d9b3-42c2-b3e2-662a0c2779ed.webp"
-    },
-    {
-      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\7e16057c-7a95-4cb6-bfe4-2ff82de7634c.webp",
-      "PackagePath": "staticwebassets\\Images\\Products\\7e16057c-7a95-4cb6-bfe4-2ff82de7634c.webp"
-    },
-    {
-      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\87a22b26-94c2-4357-a922-b2dc66f842bc.webp",
-      "PackagePath": "staticwebassets\\Images\\Products\\87a22b26-94c2-4357-a922-b2dc66f842bc.webp"
-    },
-    {
-      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\ae2f9d2c-df42-4fa5-8042-3b2eb8a91457.webp",
-      "PackagePath": "staticwebassets\\Images\\Products\\ae2f9d2c-df42-4fa5-8042-3b2eb8a91457.webp"
+      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\dd903a27-bd8c-45a8-8f2e-7fac3d284447.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\dd903a27-bd8c-45a8-8f2e-7fac3d284447.jpg"
     },
     {
       "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\css\\adminlte.css",
@@ -155,6 +143,18 @@
     {
       "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\customer\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\customer\\assets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\customer\\css\\styles.css",
+      "PackagePath": "staticwebassets\\customer\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\customer\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\customer\\js\\scripts.js"
     },
     {
       "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\favicon.ico",

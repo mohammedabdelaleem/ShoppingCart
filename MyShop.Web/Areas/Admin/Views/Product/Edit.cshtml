@@ -6,10 +6,13 @@
     Layout = "_DashboardLTE";
 }
 
-<form asp-action="Edit" asp-controller="Product" method="POST" enctype="multipart/form-data">
+<div class="parent">
+   
+<form class="my-form" asp-action="Edit" asp-controller="Product" method="POST" enctype="multipart/form-data">
     <div asp-validation-summary="All" class="text-danger"></div>
 
     <input hidden asp-for="Product.Id" />
+    <input hidden asp-for="Product.Img" />
 
 
     <label asp-for="Product.Name" class="control-label"></label>
@@ -36,6 +39,33 @@
     <input type="submit" value="Save" class="btn btn-primary mt-3 mb-3"  />
 </form>
 
-    <div >
-        <a asp-action="Index" class="btn btn-primary"> Back To List</a>
-    </div>
+<div class="my-img">
+    <img src="~/@Model.Product.Img" alt="Alternate Text"  />
+</div>
+
+ </div>
+
+
+
+<div >
+    <a asp-action="Index" class="btn btn-primary"> Back To List</a>
+</div>
+
+
+<style>
+
+    .parent {
+        display:flex;
+        justify-content : center;
+        align-items : center;
+    }
+
+    .my-form {
+        width:60%;
+  }
+
+  .my-img {
+      width:40%;
+  }
+
+</style>

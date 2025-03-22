@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\Images\\Products\\4f3fe72e-fd8a-4614-a82b-224778d891c3.jpg"
     },
     {
+      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\6e652608-3908-4853-8a20-c2b55913e03f.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\6e652608-3908-4853-8a20-c2b55913e03f.webp"
+    },
+    {
       "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\79101f59-d9b3-42c2-b3e2-662a0c2779ed.webp",
       "PackagePath": "staticwebassets\\Images\\Products\\79101f59-d9b3-42c2-b3e2-662a0c2779ed.webp"
     },
@@ -35,10 +39,6 @@
     {
       "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\ae2f9d2c-df42-4fa5-8042-3b2eb8a91457.webp",
       "PackagePath": "staticwebassets\\Images\\Products\\ae2f9d2c-df42-4fa5-8042-3b2eb8a91457.webp"
-    },
-    {
-      "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\bed4d976-8502-495f-a4f0-85c8cef1fdf3.webp",
-      "PackagePath": "staticwebassets\\Images\\Products\\bed4d976-8502-495f-a4f0-85c8cef1fdf3.webp"
     },
     {
       "Id": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\css\\adminlte.css",

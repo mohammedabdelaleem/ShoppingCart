@@ -45,16 +45,6 @@ namespace MyShop.Web
             app.UseAuthorization();
 
 
-            //app.MapControllerRoute(
-            // name: "route00",
-            // pattern: "{area=Admin}/{controller=Product}/{action=Index}/{id?}");
-
-
-            //app.MapControllerRoute(
-            //   name: "route01",
-            //   pattern: "{area=Admin}/{controller=Category}/{action=Index}/{id?}");
-
-
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{area=Admin}/{controller=Home}/{action=Index}/{id?}");

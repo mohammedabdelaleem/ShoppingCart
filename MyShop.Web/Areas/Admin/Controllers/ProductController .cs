@@ -6,6 +6,7 @@ using MyShop.Entities.ViewModels;
 
 namespace MyShop.Web.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class ProductController : Controller
     {
         private readonly IUnitIfWork unitIfWork;
@@ -117,9 +118,10 @@ namespace MyShop.Web.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(ProductCategoriesVM productCategoriesVM, IFormFile file)
+        public IActionResult Edit(ProductCategoriesVM productCategoriesVM, IFormFile? file)
         {
-            ModelState.Remove("file"); // Removes validation for 'file'
+            //         ModelState.Remove("file"); // Removes validation for 'file' 
+            // we solve file invalid state using img hidded field + IFormFile? nullable 
             if (ModelState.IsValid)
             {
                 if (file != null)
@@ -132,7 +134,7 @@ namespace MyShop.Web.Areas.Admin.Controllers
                     // delete old image if found
                     if (productCategoriesVM.Product.Img != null)
                     {
-                        var oldPath = Path.Combine(rootPath, productCategoriesVM.Product.Img.TrimStart('\\'));  //  Images\Products\   => output :   4f3fe72e - fd8a - 4614 - a82b - 224778d891c3.jpg 
+                        var oldPath = Path.Combine(rootPath, productCategoriesVM.Product.Img.TrimStart('\\'));  // look at image at DB //  Images\Products\   => output :   4f3fe72e - fd8a - 4614 - a82b - 224778d891c3.jpg 
 
                         if (System.IO.File.Exists(oldPath))
                         {
@@ -146,6 +148,9 @@ namespace MyShop.Web.Areas.Admin.Controllers
                     }
 
                     productCategoriesVM.Product.Img = @"Images\Products\" + filename + extension;
+                }else
+                {
+                    productCategoriesVM.Product.Img = null;
                 }
 
                 unitIfWork.Product.Update(productCategoriesVM.Product);
@@ -165,22 +170,42 @@ namespace MyShop.Web.Areas.Admin.Controllers
             return View("Details", product);
         }
 
-        [HttpGet]
-        public IActionResult Delete(int id)
-        {
-            var product = unitIfWork.Product.GetFirstOrDefault(c => c.Id == id);
-            ViewBag.Title = "Delete";
-            return View("Details", product);
-        }
 
 
-        public IActionResult ConfirmDelete(int id)
-        {
+
+        // i will click on the button and confirm delete no need for details show here 
+        
+        // Add Explicit Routing
+        //[HttpDelete]
+        //[Route("Admin/Product/Delete/{id}")]
+
+      //  [HttpDelete("DeleteProduct/{id}")]
+
+        [HttpDelete]
+        public IActionResult Delete(int? id)
+         {
+
             var product = unitIfWork.Product.GetFirstOrDefault(c => c.Id == id);
+            if (product == null)
+            {
+                return Json(new { success = false, message = "Error While Deleting" });
+            }
+
+            // delete its image 
+            if (product.Img != null)
+            {
+                var img = Path.Combine(webHostEnvironment.WebRootPath, product.Img.TrimStart('\\'));
+
+                if (System.IO.File.Exists(img))
+                {
+                    System.IO.File.Delete(img);
+                }
+            }
+
             unitIfWork.Product.Remove(product);
             unitIfWork.Complete();
-            TempData["Delete"] = "Item Has Been Deleted Successfully";
-            return RedirectToAction("Index");
+
+            return Json(new { success = true, message = "Product Has Been Deleted Successfuly" });
         }
     }
 }

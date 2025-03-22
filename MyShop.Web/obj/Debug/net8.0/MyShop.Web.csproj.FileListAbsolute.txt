@@ -580,3 +580,4 @@ D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Web\bin\Debug\net8.0\Syst
 D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Web\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Web\obj\Debug\net8.0\MyShop.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\University\Coding\Basic\MVC\MVC_ShoppingCart\MyShop.Web\obj\Debug\net8.0\MyShop.Web.sourcelink.json

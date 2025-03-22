@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mYspExhSb1mj9Wox1/AL5wT/csZ9/lxMxVvVUoVXJbA=",
+  "Hash": "Dc4/fG+VWrdhRi2M4tN7Xcd6TfWGkpUECQr8NWz8k8k=",
   "Source": "MyShop.Web",
   "BasePath": "_content/MyShop.Web",
   "Mode": "Default",
@@ -701,6 +701,25 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\4f3fe72e-fd8a-4614-a82b-224778d891c3.jpg"
     },
     {
+      "Identity": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\6e652608-3908-4853-8a20-c2b55913e03f.webp",
+      "SourceId": "MyShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\",
+      "BasePath": "_content/MyShop.Web",
+      "RelativePath": "Images/Products/6e652608-3908-4853-8a20-c2b55913e03f.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\6e652608-3908-4853-8a20-c2b55913e03f.webp"
+    },
+    {
       "Identity": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\79101f59-d9b3-42c2-b3e2-662a0c2779ed.webp",
       "SourceId": "MyShop.Web",
       "SourceType": "Discovered",
@@ -775,25 +794,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Products\\ae2f9d2c-df42-4fa5-8042-3b2eb8a91457.webp"
-    },
-    {
-      "Identity": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\Images\\Products\\bed4d976-8502-495f-a4f0-85c8cef1fdf3.webp",
-      "SourceId": "MyShop.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\",
-      "BasePath": "_content/MyShop.Web",
-      "RelativePath": "Images/Products/bed4d976-8502-495f-a4f0-85c8cef1fdf3.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Products\\bed4d976-8502-495f-a4f0-85c8cef1fdf3.webp"
     },
     {
       "Identity": "D:\\University\\Coding\\Basic\\MVC\\MVC_ShoppingCart\\MyShop.Web\\wwwroot\\img\\AdminLTELogo.png",
